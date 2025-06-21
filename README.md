@@ -40,6 +40,9 @@ This project demonstrates a full end-to-end **real-time fraud detection system**
 ## create_table.sql
 - SQL script used to create the `FraudFlags` table in Synapse
 ---
+## Dashboard
+[![Dashboard Preview](dashboard.png)]([https://public.tableau.com/views/FraudDetectionDashboard/Main](https://us-east-1.online.tableau.com/#/site/rajdeepsingh9613-60cc67e78b/views/CreditCardFraudDetectionProject/CreditCardFraudDetectionDashboard?:iid=1))
+---
 ## Technologies Used
 
 - **Azure Event Hubs** – Real-time ingestion of streaming transactions
