@@ -6,7 +6,7 @@ from datetime import datetime
 from azure.eventhub import EventHubProducerClient, EventData
 
 #configuration for azure eventhubs
-CONNECTION_STRING = "Endpoint=sb://fraud-detection-project-ns.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=jqE/NKbtmuz6h3cAc1PfBPai8DUkWdnHt+AEhEvO9dQ="
+CONNECTION_STRING = "connection-string-here"
 EVENT_HUB_NAME = "transaction-streams"
 
 #fields for transaction details
